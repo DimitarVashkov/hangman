@@ -1,19 +1,21 @@
 #Hangman
 ### A ruby implementation with a save feature by writing to a file
 
+[X] DO NOT LOOK AT OTHERS CODE - DO IT YOURSELF
+## This was a really good exercise
 
-[ ] Read string from dictionary
+[X] Read string from dictionary
 
-[ ] Choose a random 5 to 12 letter word from dict
+[X] Choose a random 5 to 12 letter word from dict
 
-[ ] Show remaining guesses
+[X] Show remaining guesses
 
 [ ] Draw a stick figure
 
-[ ] Mark correctly guesses letters
+[X] Mark correctly guesses letters
 
-[ ] Display win/lose
+[X] Display win/lose
 
-[ ] Create a save command
+[X] Create a save command
 
-[ ] Create an open prev or start new game
+[X] Create an open prev or start new game
